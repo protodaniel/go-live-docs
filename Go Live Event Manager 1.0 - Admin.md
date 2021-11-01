@@ -1,6 +1,8 @@
 # Go Live Event Manager 1.0 - Admin
 
-https://github.com/protodaniel/go-live-docs/blob/main/UserManual.assets/user-manual-admin.mp4
+## **Video Tutorial**
+https://user-images.githubusercontent.com/282155/139751370-0f32ba5c-ee73-4cc0-96a3-79dceda0e1fe.mp4
+
 
 ## **Overview**
 
