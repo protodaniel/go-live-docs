@@ -1,6 +1,6 @@
 # Go Live Event Manager 1.0 - Admin
 
-<div style="padding:75% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/639794015?h=8fba7398b0&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;" title="Video-Admin"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
+![test](https://github.com/protodaniel/go-live-docs/blob/main/User%20Manual.assets/Screen%20Shot%202021-10-27%20at%201.00.00%20PM.png)
 
 ## **Overview**
 
