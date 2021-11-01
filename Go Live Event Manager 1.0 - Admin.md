@@ -56,7 +56,7 @@ Usually, the audience for an event.
 
 All users login to the platform through the production environment: https://events.golive.com.au/
 
-![image-20211027102441492](User%20Manual.assets/image-20211027102441492.png)
+![image-20211027102441492](UserManual.assets/image-20211027102441492.png)
 
 
 
@@ -73,53 +73,53 @@ Admin users have privileges to manage all users and events.
 
 The user list can be accessed through the "Manage Users" button
 
-![Screen Shot 2021-10-27 at 10.35.29 AM](User Manual.assets/Screen Shot 2021-10-27 at 10.35.29 AM.png)
+![Screen Shot 2021-10-27 at 10.35.29 AM](UserManual.assets/Screen Shot 2021-10-27 at 10.35.29 AM.png)
 
 Once pressed, a full list of users is made available:
 
-![Screen Shot 2021-10-27 at 10.37.41 AM](User Manual.assets/Screen Shot 2021-10-27 at 10.37.41 AM.png)
+![Screen Shot 2021-10-27 at 10.37.41 AM](UserManual.assets/Screen Shot 2021-10-27 at 10.37.41 AM.png)
 
 #### Creating a User
 
 New users can be created by clickin on the "Create New User" button
 
-![Screen Shot 2021-10-27 at 10.41.40 AM](User Manual.assets/Screen Shot 2021-10-27 at 10.41.40 AM.png)
+![Screen Shot 2021-10-27 at 10.41.40 AM](UserManual.assets/Screen Shot 2021-10-27 at 10.41.40 AM.png)
 
 Three parameters are required when creating a new user: Name, Email and Group.
 
 The group selection will determine if a user is an Admin with full privileges or a Customer with limited ones.
 
-![Screen Shot 2021-10-27 at 10.41.08 AM](User Manual.assets/Screen Shot 2021-10-27 at 10.41.08 AM.png)
+![Screen Shot 2021-10-27 at 10.41.08 AM](UserManual.assets/Screen Shot 2021-10-27 at 10.41.08 AM.png)
 
 Once a user is created, within seconds, a welcome email will be automatically sent to the email address provided with a confirmation code that the user can then use to set their own password
 
-![Screen Shot 2021-10-27 at 10.48.51 AM](User Manual.assets/Screen Shot 2021-10-27 at 10.48.51 AM.png)
+![Screen Shot 2021-10-27 at 10.48.51 AM](UserManual.assets/Screen Shot 2021-10-27 at 10.48.51 AM.png)
 
 #### Deleting a User
 
 Users can be deleted by clicking on the additional options icon on the user list page and clicking "delete" there is a confirmation screen to confirm the deletion because it can't be undone.
 
-![Screen Shot 2021-10-27 at 10.50.13 AM](User Manual.assets/Screen Shot 2021-10-27 at 10.50.13 AM.png)
+![Screen Shot 2021-10-27 at 10.50.13 AM](UserManual.assets/Screen Shot 2021-10-27 at 10.50.13 AM.png)
 
-![Screen Shot 2021-10-27 at 10.52.36 AM](User Manual.assets/Screen Shot 2021-10-27 at 10.52.36 AM.png)
+![Screen Shot 2021-10-27 at 10.52.36 AM](UserManual.assets/Screen Shot 2021-10-27 at 10.52.36 AM.png)
 
 #### Updating a User
 
 While changing the name or email of a user isn't available at the moment, every user can review their information and change the password by clicking on the "Settings" menu.
 
-![Screen Shot 2021-10-27 at 11.04.26 AM](User Manual.assets/Screen Shot 2021-10-27 at 11.04.26 AM.png)
+![Screen Shot 2021-10-27 at 11.04.26 AM](UserManual.assets/Screen Shot 2021-10-27 at 11.04.26 AM.png)
 
-![Screen Shot 2021-10-27 at 12.51.50 PM](User Manual.assets/Screen Shot 2021-10-27 at 12.51.50 PM.png)
+![Screen Shot 2021-10-27 at 12.51.50 PM](UserManual.assets/Screen Shot 2021-10-27 at 12.51.50 PM.png)
 
 #### Creating an Event
 
 Admin users are responsible for the creation of events for client users and producers to configure. An event can be created by clicking the "Create New Event" button on the main screen, which contains the list of all events in the platform.
 
-![Screen Shot 2021-10-27 at 12.59.06 PM](User Manual.assets/Screen Shot 2021-10-27 at 12.59.06 PM.png)
+![Screen Shot 2021-10-27 at 12.59.06 PM](UserManual.assets/Screen Shot 2021-10-27 at 12.59.06 PM.png)
 
 This will open the Event Creation Dialogue. More details about each required field below.
 
-![Screen Shot 2021-10-27 at 1.00.00 PM](User Manual.assets/Screen Shot 2021-10-27 at 1.00.00 PM.png)
+![Screen Shot 2021-10-27 at 1.00.00 PM](UserManual.assets/Screen Shot 2021-10-27 at 1.00.00 PM.png)
 
 ###### Event Name
 
