@@ -56,7 +56,7 @@ Usually, the audience for an event.
 
 All users login to the platform through the production environment: https://events.golive.com.au/
 
-![image-20211027102441492](User Manual.assets/image-20211027102441492.png)
+![image-20211027102441492](/User Manual.assets/image-20211027102441492.png)
 
 
 
