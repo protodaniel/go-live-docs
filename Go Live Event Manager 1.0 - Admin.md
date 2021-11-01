@@ -1,5 +1,10 @@
 # Go Live Event Manager 1.0 - Admin
 
+![user-manual-admin.mp4](UserManual.assets/UserManual.assets/user-manual-admin.mp4)
+<video src="UserManual.assets/user-manual-admin.mp4"></video>
+
+
+
 ## **Overview**
 
 The **Go Live Event Manager** is a platform that allows the creation and configuration of live-streaming event pages.
